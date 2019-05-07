@@ -1,0 +1,13 @@
+/dist
+/logs
+/npm-debug.log
+/node_modules
+/admin
+/client
+/logs
+/src/images
+.DS_Store
+.env
+coverage
+.nyc_output
+puppeteer_output/
